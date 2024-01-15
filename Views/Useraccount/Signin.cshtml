@@ -1,0 +1,75 @@
+@{
+    ViewData["Title"] = "Signin";
+}
+<h1>Signin</h1>
+@section styles{
+    <style>
+    #resp-table {
+        border:  1px solid #FF0000;
+        position: absolute;
+        width: 400px;
+        height: 200px;
+        z-index: 15;
+        top: 50%;
+        left: 50%;
+        margin: -100px 0 0 -150px;
+        background: #F5F5F5;
+    }
+    #resp-table-body{
+        display: table-row-group;
+    }
+    .resp-table-row{
+        display: table-row;
+    }
+    .table-body-cell{
+        display: table-cell;
+        @* border: 1px solid #dddddd; *@
+        padding: 8px;
+        line-height: 1.42857143;
+        vertical-align: top;
+    }
+    .starred{
+        color: #f00;
+    }
+    </style>
+
+}
+<form method="post" id="frmsignin">
+<div id="resp-table">
+    <div id="resp-table-body">
+        <div class="resp-table-row">
+            <div class="table-body-cell">
+                &nbsp;
+            </div>
+        </div>
+        <div class="resp-table-row"> 
+            <div class="table-body-cell">
+                Username <span class="starred">*</span>
+            </div>
+            <div class="table-body-cell">
+                <i class="fa fa-user icon"></i>
+                <input type="text" id="txtusername"  placeholder="Enter Username" title="Please Enter UserName" required>
+            </div>
+        </div>
+        <div class="resp-table-row"> 
+            <div class="table-body-cell">
+               Password <span class="starred">*</span>
+            </div>
+            <div class="table-body-cell">
+                <input type="password" id="txtpassword"  placeholder="Enter Password" title="Please Enter Password" required>
+            </div>
+            
+        </div>
+        <div class="resp-table-row">
+            <div class="table-body-cell">
+                &nbsp;
+            </div>
+            <div class="table-body-cell">
+                <button type="button" class="btn btn-primary">Cancel</button> 
+                <button type="submit" class="btn btn-primary">Sign In</button>
+                <a href="javascript:void(0)">Forgot password?</a>
+            </div> 
+        </div>
+    </div>
+</div>
+</form>

@@ -1,0 +1,16 @@
+[
+    {
+        "outputFileName": "wwwroot/production/syle.min.css",
+        "inputFiles": [
+            "wwwroot/css/Reg.css",
+            "wwwroot/css/style.css"
+        ]
+    },
+    {
+        "outputFileName": "wwwroot/production/script.min.js",
+        "inputFiles": [
+            "wwwroot/js/script.js",
+            "wwwroot/js/validation.js"
+        ]
+    }
+]

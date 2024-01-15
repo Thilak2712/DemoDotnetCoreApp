@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoDotnetCoreApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DemoDotnetCoreApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\Module\\Student.js",
+      "PackagePath": "staticwebassets\\Module\\Student.js"
+    },
+    {
+      "Id": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\Module\\StudentDetails.js",
+      "PackagePath": "staticwebassets\\Module\\StudentDetails.js"
+    },
+    {
+      "Id": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DemoDotnetCoreApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DemoDotnetCoreApp.props",
+      "PackagePath": "build\\DemoDotnetCoreApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoDotnetCoreApp.props",
+      "PackagePath": "buildMultiTargeting\\DemoDotnetCoreApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DemoDotnetCoreApp.props",
+      "PackagePath": "buildTransitive\\DemoDotnetCoreApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
