@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M920wuyjv5zVTD52hQqlAsw/02hGfln34AcAiQwzLVNrNMNzViF2Bn1xTxms6xfeBdcUnLo5fXaqCEVyR3dwng==",
+  "dgSpecHash": "tLFyHFK3TzPKyaTGQO8zbidHRIZunci3S1YyugZuvM97fp1qrZgJ9qMFlEHqPAclZiZupGKj+tZUGD/t/FURDA==",
   "success": true,
-  "projectFilePath": "D:\\My Projects\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj",
+  "projectFilePath": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thila\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\thila\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

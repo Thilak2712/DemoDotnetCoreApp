@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Projects\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj": {}
+    "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj": {}
   },
   "projects": {
-    "D:\\My Projects\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj": {
+    "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Projects\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj",
+        "projectUniqueName": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj",
         "projectName": "DemoDotnetCoreApp",
-        "projectPath": "D:\\My Projects\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj",
+        "projectPath": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\DemoDotnetCoreApp.csproj",
         "packagesPath": "C:\\Users\\thila\\.nuget\\packages\\",
-        "outputPath": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\",
+        "outputPath": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thila\\AppData\\Roaming\\NuGet\\NuGet.Config"

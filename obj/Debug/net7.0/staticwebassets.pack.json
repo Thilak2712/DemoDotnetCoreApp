@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoDotnetCoreApp.bundle.scp.css",
+      "Id": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoDotnetCoreApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\DemoDotnetCoreApp.bundle.scp.css"
     },
     {
-      "Id": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\Module\\Student.js",
+      "Id": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\Module\\Student.js",
       "PackagePath": "staticwebassets\\Module\\Student.js"
     },
     {
-      "Id": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\Module\\StudentDetails.js",
+      "Id": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\Module\\StudentDetails.js",
       "PackagePath": "staticwebassets\\Module\\StudentDetails.js"
     },
     {
-      "Id": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\favicon.ico",
+      "Id": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {

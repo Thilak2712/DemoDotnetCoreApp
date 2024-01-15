@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o48FnDkUNoKHPWn7VbHoJTYYpR/ECurFj1dYVQj2uFg=",
+  "Hash": "KMkojuVQ/QUySDnrCGM9sihOg/BrUnoB7u+tD5e4HXs=",
   "Source": "DemoDotnetCoreApp",
   "BasePath": "_content/DemoDotnetCoreApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DemoDotnetCoreApp\\wwwroot",
       "Source": "DemoDotnetCoreApp",
-      "ContentRoot": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\",
+      "ContentRoot": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\",
       "BasePath": "_content/DemoDotnetCoreApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DemoDotnetCoreApp.styles.css",
+      "Identity": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DemoDotnetCoreApp.styles.css",
       "SourceId": "DemoDotnetCoreApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DemoDotnetCoreApp",
       "RelativePath": "DemoDotnetCoreApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DemoDotnetCoreApp.styles.css"
+      "OriginalItemSpec": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DemoDotnetCoreApp.styles.css"
     },
     {
-      "Identity": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoDotnetCoreApp.bundle.scp.css",
+      "Identity": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoDotnetCoreApp.bundle.scp.css",
       "SourceId": "DemoDotnetCoreApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DemoDotnetCoreApp",
       "RelativePath": "DemoDotnetCoreApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\My Projects\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoDotnetCoreApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DemoDotnetCoreApp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\favicon.ico",
+      "Identity": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\favicon.ico",
       "SourceId": "DemoDotnetCoreApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\",
+      "ContentRoot": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\",
       "BasePath": "_content/DemoDotnetCoreApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\Module\\Student.js",
+      "Identity": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\Module\\Student.js",
       "SourceId": "DemoDotnetCoreApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\",
+      "ContentRoot": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\",
       "BasePath": "_content/DemoDotnetCoreApp",
       "RelativePath": "Module/Student.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\Module\\Student.js"
     },
     {
-      "Identity": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\Module\\StudentDetails.js",
+      "Identity": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\Module\\StudentDetails.js",
       "SourceId": "DemoDotnetCoreApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\My Projects\\DemoDotnetCoreApp\\wwwroot\\",
+      "ContentRoot": "D:\\My Projects\\Dotnet Core\\DemoDotnetCoreApp\\wwwroot\\",
       "BasePath": "_content/DemoDotnetCoreApp",
       "RelativePath": "Module/StudentDetails.js",
       "AssetKind": "All",
